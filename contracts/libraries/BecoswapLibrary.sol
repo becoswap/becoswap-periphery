@@ -21,7 +21,7 @@ library BecoswapLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f' // init code hash
+                hex'6ac20c65f371c144114634d24353978a9696a50ed9c6a619f657ea57e6818618' // init code hash
             ))));
     }
 
